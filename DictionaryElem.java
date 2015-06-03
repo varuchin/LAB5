@@ -5,13 +5,13 @@ import javax.swing.*;
 import javax.swing.event.*;
 import javax.swing.tree.*;
 
-abstract class DictionaryElem
-	{
-	
-		public abstract String getType();
-	
-		public abstract String getValue();
-	
-		public abstract String toString();
-	
-	}
+
+public abstract class DictionaryElem {
+
+	public abstract String getType();
+
+	public abstract String getValue();
+
+	public abstract String toString();
+
+}

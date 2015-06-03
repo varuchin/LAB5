@@ -1,8 +1,6 @@
+import javax.swing.tree.DefaultMutableTreeNode;
 
-import javax.swing.tree.*;
-
-	class DictionaryAnchor
-	{
-		public DefaultMutableTreeNode topic;
-		public DefaultMutableTreeNode entry;	
-	}
+public class DictionaryAnchor {
+	public DefaultMutableTreeNode topic;
+	public DefaultMutableTreeNode entry;
+}
