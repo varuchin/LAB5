@@ -1,3 +1,5 @@
+package ok;
+
 import javax.swing.tree.DefaultMutableTreeNode;
 
 public class DictionaryAnchor {

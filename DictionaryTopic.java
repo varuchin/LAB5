@@ -1,3 +1,5 @@
+package ok;
+
 public class DictionaryTopic extends DictionaryElem {
 	private String theTopic;
 

@@ -1,10 +1,4 @@
-import java.awt.event.*;
-import java.awt.*;
-import java.util.Enumeration;
-import javax.swing.*;
-import javax.swing.event.*;
-import javax.swing.tree.*;
-
+package ok;
 
 public abstract class DictionaryElem {
 

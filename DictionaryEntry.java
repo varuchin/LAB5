@@ -1,3 +1,5 @@
+package ok;
+
 import javax.swing.ImageIcon;
 
 public class DictionaryEntry extends DictionaryElem {
